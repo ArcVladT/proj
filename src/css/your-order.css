@@ -4,11 +4,11 @@
 }
 
 .order-container {
+  width: 335px;
   margin: 0 auto;
 }
 
 /* Description styles */
-
 .order-description {
   color: #fbfbfb;
   margin-bottom: 40px;
